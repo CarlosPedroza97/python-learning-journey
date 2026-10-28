@@ -1,4 +1,4 @@
-# Python Learning Journey
+# Exercícios de Python
 
 Repositório criado para registrar minha evolução nos estudos de Python.
 
